@@ -1,3 +1,4 @@
-# Programozás 1
-# Scratch feladatok
+Programozás 1
+=============
+Scratch feladatok
 
